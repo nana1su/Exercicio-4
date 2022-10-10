@@ -1,17 +1,10 @@
-## Getting Started
+## Atividade 4 - GitHub
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sejam bem vindos a Atividade
 
-## Folder Structure
+## Enunciado
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
 ## Dependency Management
 
